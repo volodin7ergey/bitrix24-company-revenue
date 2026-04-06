@@ -114,23 +114,6 @@
 <img src="media/screen-5.png" width="300"><br>
 <em>Фильтр по периоду</em>
 </td>
-
-<td align="center">
-<img src="media/screen-6.png" width="300"><br>
-<em>Фильтрация по компании</em>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="media/screen-7.png" width="300"><br>
-<em>Фильтрация по периоду</em>
-</td>
-
-<td align="center">
-<img src="media/screen-8.png" width="300"><br>
-<em>Итоговые показатели</em>
-</td>
 </tr>
 </table>
 
@@ -141,8 +124,8 @@
 <ul>
 <li><b>Frontend:</b> Vue + Vuetify, JavaScript, Sass, Vite</li>
 <li><b>Интеграция:</b> Bitrix24 API</li>
-<li><b>Было выделено времени:</b> 7 дней</li>
-<li><b>Время разработки:</b> 5 дней разработка + 2 дня тестирование</li>
+<li><b>Было выделено времени:</b> 6 дней</li>
+<li><b>Время разработки:</b> 5 дней разработка + 1 день тестирование</li>
 </ul>
 
 <hr>
