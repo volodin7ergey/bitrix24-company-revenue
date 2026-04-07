@@ -14,10 +14,10 @@
 <em >Работа приложения в реальном времени</em></td></tr>
 </table>
 </div>
+
 <table>
 
 <tr>
-
 <td align="center">
 <img src="media/screen-2.png" width="100%" alt="Начальный экран"><br>
 <em>Начальный экран</em>
