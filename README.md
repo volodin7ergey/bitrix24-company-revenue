@@ -5,11 +5,43 @@
 Позволяет оценивать эффективность работы с клиентами и видеть, какие компании приносят наибольший доход.
 </p>
 
+<h2>🔹 Демонстрация работы приложения</h2>
+
 <div width="100%" align="center">
-<table width="600px" cellSpacing="1" cellpadding="1" border="1">
-<tr><td><img width="600px" src="media/demo.gif"></td></tr>
+<table width="100%" cellpadding="1" border="1">
+<tr align="center"><td><img  src="media/demo.gif" alt="Работа приложения в реальном времени"> <br>
+
+<em >Работа приложения в реальном времени</em></td></tr>
 </table>
 </div>
+<table>
+
+<tr>
+
+<td align="center">
+<img src="media/screen-2.png" width="100%" alt="Начальный экран"><br>
+<em>Начальный экран</em>
+</td>
+
+<td align="center">
+<img src="media/screen-3.png" width="100%" alt="Вывод данных по компаниям"><br>
+<em>Вывод данных по компаниям</em>
+</td>
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="media/screen-4.png" width="100%" alt="Фильтр по конкретной компании"><br>
+<em>Фильтр по конкретной компании</em>
+</td>
+
+<td align="center">
+<img src="media/screen-5.png" width="100%" alt="Фильтр по периоду"><br>
+<em>Фильтр по периоду</em>
+</td>
+</tr>
+</table>
 
 <hr>
 
@@ -79,43 +111,6 @@
 <li>Период (по дате завершения сделки)</li>
 <li>Компания</li>
 </ul>
-
-<hr>
-
-<h2>🔹 Демонстрация работы приложения</h2>
-
-<table>
-<tr>
-<td align="center">
-<img src="media/screen-1.png" width="300"><br>
-<em>Загрузка приложения</em>
-</td>
-
-<td align="center">
-<img src="media/screen-2.png" width="300"><br>
-<em>Начальный экран</em>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="media/screen-3.png" width="300"><br>
-<em>Вывод данных по компаниям</em>
-</td>
-
-<td align="center">
-<img src="media/screen-4.png" width="300"><br>
-<em>Фильтр по конкретной компании</em>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="media/screen-5.png" width="300"><br>
-<em>Фильтр по периоду</em>
-</td>
-</tr>
-</table>
 
 <hr>
 
