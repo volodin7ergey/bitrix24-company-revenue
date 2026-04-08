@@ -19,12 +19,12 @@
 
 <tr>
 <td align="center">
-<img src="media/screen-2.png" width="100%" alt="Начальный экран"><br>
+<img src="media/screen-1.jpg" width="100%" alt="Начальный экран"><br>
 <em>Начальный экран</em>
 </td>
 
 <td align="center">
-<img src="media/screen-3.png" width="100%" alt="Вывод данных по компаниям"><br>
+<img src="media/screen-2.jpg" width="100%" alt="Вывод данных по компаниям"><br>
 <em>Вывод данных по компаниям</em>
 </td>
 </tr>
@@ -32,12 +32,12 @@
 <tr>
 
 <td align="center">
-<img src="media/screen-4.png" width="100%" alt="Фильтр по конкретной компании"><br>
+<img src="media/screen-3.jpg" width="100%" alt="Фильтр по конкретной компании"><br>
 <em>Фильтр по конкретной компании</em>
 </td>
 
 <td align="center">
-<img src="media/screen-5.png" width="100%" alt="Фильтр по периоду"><br>
+<img src="media/screen-4.jpg" width="100%" alt="Фильтр по периоду"><br>
 <em>Фильтр по периоду</em>
 </td>
 </tr>
